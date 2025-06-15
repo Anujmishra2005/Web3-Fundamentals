@@ -7,3 +7,4 @@ Web3 Implementations :-
 4) HyperLedger Fabric
 5) Public Blockchain
 6) Private Blockchain
+7) Bank Ledger
