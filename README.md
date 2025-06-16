@@ -14,3 +14,4 @@ Web3 Implementations :-
 11) Etherium
 12) Bitcoin
 13) Dogecoin
+14) CoinDCX
