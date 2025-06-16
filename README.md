@@ -13,3 +13,4 @@ Web3 Implementations :-
 10) Client
 11) Etherium
 12) Bitcoin
+13) Dogecoin
