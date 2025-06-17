@@ -15,3 +15,5 @@ Web3 Implementations :-
 12) Bitcoin
 13) Dogecoin
 14) CoinDCX
+15) DApp
+16) HyperFunction
